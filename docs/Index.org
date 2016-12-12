@@ -1,8 +1,20 @@
-[[file:Desnoyez-small.png
-]]
+#+TITLE: 
+#+AUTHOR: 
+#+OPTIONS: html-postamble:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
+#+ATTR_HTML: :alt Le Desnoyez :align center
+[[file:Desnoyez-small.png]]
+
+
 3, Rue Dénoyez
 75020 Paris
 
-06 61 19 18 31
+#+BEGIN_EXPORT html
+<a href="tel:0661191831 ">06 61 19 18 31</a>
+#+END_EXPORT
 
-du eudi au lundi, midi et soir
+du jeudi au lundi, midi et soir
+#+BEGIN_EXPORT html
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=2.377378642559052%2C48.870533619904215%2C2.3794332146644597%2C48.87178975516135&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=19/48.87116/2.37841">Plus grande carte</a></small>
+#+END_EXPORT
+
