@@ -2,6 +2,7 @@
 #+AUTHOR: 
 #+OPTIONS: html-postamble:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
+#+HTML_HEAD_EXTRA: <style type="text/css">body{ max-width:25%; }</style>
 #+ATTR_HTML: :alt Le Desnoyez :align center
 [[file:Desnoyez-small.png]]
 
