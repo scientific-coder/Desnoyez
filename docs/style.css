@@ -2,6 +2,7 @@
 
 * {
     font-family: "Georgia";
+    color: white;
     background: #023553;
     text-align: center;
 }
@@ -138,7 +139,7 @@ h1.title {
 }
 
 .tag {
-	color: black;
+	color: white;
 	text-transform: lowercase;
 	/* This will be obscured by the surrounding span tag, so blank everything. */
 	background: #fff;
@@ -210,7 +211,7 @@ h1 span, h2 span, h3 span, h4 span, h5 span, h6 span {
 
 a {
     text-decoration: none;
-    color: black; /* TODO: Find a better colour for this. */
+    color: white; /* TODO: Find a better colour for this. */
 }
 
 a:hover {
