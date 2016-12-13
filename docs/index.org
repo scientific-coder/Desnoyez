@@ -19,3 +19,9 @@ du jeudi au lundi, midi et soir
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=2.377378642559052%2C48.870533619904215%2C2.3794332146644597%2C48.87178975516135&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=19/48.87116/2.37841">Plus grande carte</a></small>
 #+END_EXPORT
 
+
+
+#+BEGIN_EXPORT html
+<p/>
+<a href="google.navigation:q=3 rue Denoyez Paris France" target="Le Desnoyez">Comment s'y rendre</a> 
+#+END_EXPORT
